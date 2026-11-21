@@ -1,0 +1,92 @@
+{
+  "name": "Maxence Fontana",
+  "role": "Aerospace Trade Advisor",
+  "organization": "Business France",
+  "location": "Los Angeles, California",
+  "portrait": null,
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/m2xence"
+    }
+  ],
+  "bio": [
+    "I’m a mechanical engineer working in international business development. At Business France in Los Angeles, I help French aerospace and space companies understand the North American market, identify potential partners, and prepare for commercial conversations.",
+    "Before moving to Los Angeles, I worked at Airbus Helicopters during my engineering apprenticeship and spent a summer with Messer Americas in Toronto. My work has ranged from aircraft configuration and engineering tools to organizing programs that bring companies and industry teams together."
+  ],
+  "education": "Mechanical engineering, Arts et Métiers",
+  "interests": [
+    "Aerospace and space",
+    "International market development",
+    "Mechanical design and prototyping"
+  ],
+  "featured": [
+    {
+      "title": "French Space Days and SmallSat",
+      "status": "Business France · 2026",
+      "image": null,
+      "description": "I helped coordinate the France Pavilion at SmallSat in Salt Lake City and organize the Los Angeles program, including meetings, site visits, and the closing reception. The programs brought French space companies together with North American industry teams."
+    },
+    {
+      "title": "Parts classification at Airbus Helicopters",
+      "status": "Engineering capstone",
+      "image": null,
+      "description": "For my final engineering project, I worked on automating part identification and classification. The public summary is limited to the problem and my contribution."
+    },
+    {
+      "title": "Guit’Art",
+      "status": "Personal prototype",
+      "image": null,
+      "description": "I built and publicly demonstrated a portable electric guitar prototype with an integrated amplifier."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Seoul or Saoul",
+      "status": "Exploratory web prototype",
+      "description": "I built a travel companion for Seoul and Busan with neighborhood maps and optional quests. The prototype explores how to plan a trip while leaving room for detours."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Aerospace Trade Advisor",
+      "org": "Business France",
+      "date": "Since January 2025",
+      "place": "Los Angeles, United States",
+      "details": [
+        "Support French aerospace and space companies with North American market research and business development.",
+        "Coordinate meetings and industry programs with French and North American partners."
+      ]
+    },
+    {
+      "title": "Mechanical engineering apprenticeship",
+      "org": "Airbus Helicopters",
+      "date": "September 2021 – August 2024",
+      "place": "Marignane, France",
+      "details": [
+        "Worked on 3D helicopter configurations and a capstone project on part identification and classification."
+      ]
+    },
+    {
+      "title": "Summer internship",
+      "org": "Messer Americas",
+      "date": "June – September 2023",
+      "place": "Toronto, Canada",
+      "details": []
+    }
+  ],
+  "beyond": [
+    {
+      "title": "Travel and photography",
+      "description": "I enjoy mountain trips and photographing places I visit. One of my strongest memories of Japan is looking out at Mount Fuji from a dock in Hakone."
+    },
+    {
+      "title": "Chess and music",
+      "description": "I helped start chess clubs at Arts et Métiers and play the cello."
+    },
+    {
+      "title": "Reading",
+      "description": "Recent reading includes Foundation by Isaac Asimov and Ignorance by Milan Kundera."
+    }
+  ]
+}
