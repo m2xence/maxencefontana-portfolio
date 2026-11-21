@@ -3,7 +3,10 @@
   "role": "Aerospace Trade Advisor",
   "organization": "Business France",
   "location": "Los Angeles, California",
-  "portrait": null,
+  "portrait": {
+    "src": "maxence-portrait.jpg",
+    "alt": "Maxence Fontana in front of a mural with French and American symbols"
+  },
   "links": [
     {
       "label": "GitHub",
@@ -25,7 +28,19 @@
       "title": "French Space Days and SmallSat",
       "status": "Business France · 2026",
       "image": null,
-      "description": "I helped coordinate the France Pavilion at SmallSat in Salt Lake City and organize the Los Angeles program, including meetings, site visits, and the closing reception. The programs brought French space companies together with North American industry teams."
+      "description": "I helped coordinate the France Pavilion at SmallSat in Salt Lake City and organize the Los Angeles program, including meetings, site visits, and the closing reception. The programs brought French space companies together with North American industry teams.",
+      "photos": [
+        {
+          "src": "los-angeles-reception.jpg",
+          "alt": "Maxence Fontana onstage beside a speaker and flags",
+          "caption": "Reception at the French Residence in Los Angeles"
+        },
+        {
+          "src": "spacex-booster.jpg",
+          "alt": "Maxence Fontana standing beneath a SpaceX booster",
+          "caption": "In front of a SpaceX booster"
+        }
+      ]
     },
     {
       "title": "Parts classification at Airbus Helicopters",
