@@ -122,6 +122,7 @@ async function start(){
   const texture=gl.createTexture();gl.bindTexture(gl.TEXTURE_2D,texture);
   gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_MIN_FILTER,gl.NEAREST);
   gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_MAG_FILTER,gl.NEAREST);
+  gl.pixelStorei(gl.UNPACK_ALIGNMENT,1);
   gl.texImage2D(gl.TEXTURE_2D,0,gl.R16UI,501,501,0,gl.RED_INTEGER,gl.UNSIGNED_SHORT,altitudes);
   gl.uniform1i(uniforms.terrain,0);
   gl.enable(gl.DEPTH_TEST);gl.enable(gl.BLEND);gl.blendFuncSeparate(gl.SRC_ALPHA,gl.ONE_MINUS_SRC_ALPHA,gl.ONE,gl.ONE_MINUS_SRC_ALPHA);
@@ -266,4 +267,5 @@ async function start(){
 }
 start().catch(error=>{status.textContent='Relief indisponible dans ce navigateur. '+error.message;});
 </script></html>
+
 
